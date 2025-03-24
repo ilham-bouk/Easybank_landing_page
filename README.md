@@ -11,8 +11,6 @@ This is a solution to the [Easybank landing page challenge on Frontend Mentor](h
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution]()
-- Live Site URL: [Live site]()
+- Live Site URL: [Live site](https://ilham-bouk.github.io/Easybank_landing_page/)
 
 ## My process
 
@@ -48,9 +46,6 @@ Users should be able to:
 
 This challenge provided valuable practice for my coding skills, particularly in the styling of background and image of the hero section.
 
-### Continued development
-
-
 ## Author
 
 - Frontend Mentor - [@ilham-bouk](https://www.frontendmentor.io/profile/ilham-bouk)
@@ -61,4 +56,3 @@ This challenge provided valuable practice for my coding skills, particularly in 
 A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀 
-
