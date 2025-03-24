@@ -42,5 +42,23 @@ Users should be able to:
 - JavaScript 
 - Flexbox
 - CSS Grid
+- Desktop-first workflow 
 
+### What I learned
+
+This challenge provided valuable practice for my coding skills, particularly in the styling of background and image of the hero section.
+
+### Continued development
+
+
+## Author
+
+- Frontend Mentor - [@ilham-bouk](https://www.frontendmentor.io/profile/ilham-bouk)
+- LinkedIn - [Ilham Bouktir](https://www.linkedin.com/in/ilham-bouktir-0b266b31b)
+
+## Acknowledgments
+
+A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+
+**Happy coding!** ☺️🚀 
 
