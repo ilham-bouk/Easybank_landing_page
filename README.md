@@ -25,10 +25,11 @@ Users should be able to:
 
 ### Screenshot
 
+![Screenshot of my solution](./design/easybankScreenshot.jpg) 
 
 ### Links
 
-- Solution URL: [Solution]()
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-2GwC2ItK9q)
 - Live Site URL: [Live site](https://ilham-bouk.github.io/Easybank_landing_page/)
 
 ## My process
@@ -53,6 +54,6 @@ This challenge provided valuable practice for my coding skills, particularly in 
 
 ## Acknowledgments
 
-A big thank you to anyone providing feedback on [my solution](). It definitely helps to find new ways to code and find easier solutions!
+A big thank you to anyone providing feedback on [my solution](https://www.frontendmentor.io/solutions/responsive-easybank-landing-page-2GwC2ItK9q). It definitely helps to find new ways to code and find easier solutions!
 
 **Happy coding!** ☺️🚀 
